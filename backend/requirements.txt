@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+PyPDF2
+langchain
+langchain-community
+langchain-ollama
+sentence-transformers
+faiss-cpu
+sqlite3-binary
